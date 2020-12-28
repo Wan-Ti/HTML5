@@ -29,4 +29,13 @@ HTML5技术集合
 <aside>旁支内容aside</aside>
 <div>划分部分div</div>
 ```
-
+所有标签都有的属性成为全局属性。
+```
+class
+contenteditable:将styel设置为contenteditable;display:block;可以实时更改样式
+hidden
+id:不到万不得已不要用id为标签命名；即便id重复也不会报错。
+style
+tebindex
+title
+```
