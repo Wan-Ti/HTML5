@@ -20,19 +20,11 @@ HTML5技术集合
 ## 章节标签
 
 · <h1>标题标签 </h1>
-
 · <section>章节标签</section>
-
 · <article>文章标签</article>
-
 · <p>段落标签</p>
-
-· 头部标签
-
-· 脚步标签
-
-· 主要内容
-
-· 旁支内容
-
-· 划分部分
+· <header>头部标签</header>
+· <footer>脚步标签</footer>
+· <main>主要内容</main>
+· <aside>旁支内容</aside>
+· <div>划分部分</div>
