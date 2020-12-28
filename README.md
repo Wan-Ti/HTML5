@@ -18,7 +18,7 @@ HTML5技术集合
 ``` 
 
 ## 章节标签
-
+```
 · <h1>标题标签 </h1>
 · <section>章节标签</section>
 · <article>文章标签</article>
@@ -28,3 +28,4 @@ HTML5技术集合
 · <main>主要内容</main>
 · <aside>旁支内容</aside>
 · <div>划分部分</div>
+```
